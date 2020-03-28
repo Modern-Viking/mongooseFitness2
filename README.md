@@ -3,7 +3,7 @@
 This Website is a fitness tracker using Mongo, Mongoose, and Express
 
 ### link to the deployed website
-- www.template.com
+-  https://mongoose-fitness.herokuapp.com/
 
 ## Contents
 * Landing Page
